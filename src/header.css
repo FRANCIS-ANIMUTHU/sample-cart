@@ -1,0 +1,11 @@
+.navi a{
+    margin-right: 150px;
+    padding-left: 30px;
+    text-decoration: none;
+    color: beige;
+
+}
+.navi{
+    background-color: blue;
+    padding: 30px;
+}
